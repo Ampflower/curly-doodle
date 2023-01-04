@@ -1,0 +1,14 @@
+name = "M.R.U"
+filename = "minelib11-0.1.3+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/U8wd55Ll/minelib11-0.1.3%2B1.19.jar"
+hash-format = "sha512"
+hash = "b6a3b705a7cd1e55ef5f3453a6a2e98ef69f143a4851e3d1434fe11b3cb4273e03b12bc1a287aad0fa33e9d3dcba4247a784c9665ad9f4bee67aff75cd8b27c9"
+
+[update]
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "U8wd55Ll"

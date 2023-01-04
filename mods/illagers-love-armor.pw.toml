@@ -1,0 +1,14 @@
+name = "Illagers Love Armor"
+filename = "IllagersLoveArmor-1.0.2+1.19.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/gZ7pSjxV/IllagersLoveArmor-1.0.2%2B1.19.x.jar"
+hash-format = "sha512"
+hash = "e1ef4a2fb525f4ab1312ef479234985d9040d50b5038514a5b49d4739e03a4af2168472860ca68ff20f92fc8bddacee72c895b6e1da5f9e0b1b0c8afbea749fb"
+
+[update]
+[update.modrinth]
+mod-id = "LlOkR2e2"
+version = "gZ7pSjxV"

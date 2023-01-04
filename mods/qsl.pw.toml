@@ -1,0 +1,14 @@
+name = "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)"
+filename = "qfapi-4.0.0-beta.24_qsl-3.0.0-beta.24_fapi-0.68.0_mc-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/hmX9pHvE/qfapi-4.0.0-beta.24_qsl-3.0.0-beta.24_fapi-0.68.0_mc-1.19.2.jar"
+hash-format = "sha512"
+hash = "55661f40d043ca1fab5d88e6d63cb233eb2ee92460b68b1162ab92e767e2c0f35b972030a4e4f1dfbf5c2f858d995bb1b51e626a172a202801ff02916ad8ba25"
+
+[update]
+[update.modrinth]
+mod-id = "qvIfYCYJ"
+version = "hmX9pHvE"

@@ -1,0 +1,14 @@
+name = "Warden Tools"
+filename = "warden-tools-2.1.2+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/KuQueJOG/versions/PCBlBVqq/warden-tools-2.1.2%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "07f25bf317b8f66ffe6af66fa1d51143d5971f4ca9edc8ae63c59f36059c11f73992155206fb558042bda920b6b37aae445145813cbe6adbb04e8045a0e8a4ee"
+
+[update]
+[update.modrinth]
+mod-id = "KuQueJOG"
+version = "PCBlBVqq"

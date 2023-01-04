@@ -1,0 +1,13 @@
+name = "Kueso Cheese Pack"
+author = "Kueso & Ampflower"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d405075aacd991fbc3791897e65fa859f0ca0000dc9e3715a41ed080384e1e5e"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.8"
