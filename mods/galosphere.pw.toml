@@ -1,0 +1,14 @@
+name = "Galosphere"
+filename = "Galosphere-1.19.2-1.2.0-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/NZkbDlYn/Galosphere-1.19.2-1.2.0-Fabric.jar"
+hash-format = "sha512"
+hash = "0905b473de092d15f1ad87c968ab9e42177fcbf0611caf3f6cd5f0cffa7a598d81b915e9ca496b43dfedaae15ef6c24b30df5ae687ce1c592145a30b37ad173e"
+
+[update]
+[update.modrinth]
+mod-id = "Kn7xyQ1v"
+version = "NZkbDlYn"

@@ -1,0 +1,14 @@
+name = "Excavated Variants"
+filename = "excavated_variants-quilt-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/jQZwE950/excavated_variants-quilt-1.19.2-1.0.3.jar"
+hash-format = "sha512"
+hash = "0442dcefc556546eb421df4c30456074523dd9206a2fdcabb440c18334b0476672910164ed578f23a3be1f5379dd0b5013727782d431e03b0c89273525744708"
+
+[update]
+[update.modrinth]
+mod-id = "IZaMGxb0"
+version = "jQZwE950"

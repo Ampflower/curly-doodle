@@ -1,0 +1,14 @@
+name = "Jade 🔍"
+filename = "Jade-1.19.1-fabric-8.6.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/q4ZaJMOV/Jade-1.19.1-fabric-8.6.3.jar"
+hash-format = "sha512"
+hash = "9dcf590f2d3abd3e0aa7057ec5ee20987665c57086bb209f9c1297735760347581c7a48cb13f8da8d443e04d0989c96e9bb266000fd23acc1f12aab60c3ec2f3"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "q4ZaJMOV"
