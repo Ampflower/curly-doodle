@@ -932,11 +932,6 @@ hash = "701f9ef2f2c6ed7e6a0fee0a616f85bcd2fdcb44a9944d4124445340c1301436"
 metafile = true
 
 [[files]]
-file = "mods/it-takes-a-pillage-fabric.pw.toml"
-hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "0e8131923c3843193c4887963655a06c561027652580e8444f2e0814be059ad2"
 metafile = true
@@ -1111,11 +1106,6 @@ hash = "685a7b724de4b834693744357563873f1145d2c56c91f91a1ad68b4233878997"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
-metafile = true
-
-[[files]]
 file = "mods/super-secret-revival.pw.toml"
 hash = "2c73110cf3948e33b1e10b57d3ac60116801e99833b980af731e4d1f6d482ffa"
 metafile = true
@@ -1129,6 +1119,10 @@ metafile = true
 file = "mods/switchy.pw.toml"
 hash = "c58e9b7b73c2f1e73c588985af2c029b02e8526a7c9172da10a24646f6043445"
 metafile = true
+
+[[files]]
+file = "mods/takesapillage-1.0.2-1.19.2.jar"
+hash = "fc9360881a5146acf9e0c0def4b8488ca70f0c56dbd7f6975ae285b4b43b88fd"
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
